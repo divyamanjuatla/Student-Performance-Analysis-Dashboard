@@ -67,7 +67,8 @@ The project demonstrates the complete data analysis workflow, including data cle
 
 (Add your dashboard image here)
 
-![Dashboard]()
+![Dashboard](<img width="6000" height="3600" alt="student_performance_dashboard" src="https://github.com/user-attachments/assets/bb8f0555-3f25-451f-8277-1eb3f2b9961e" />
+)
 
 ---
 
